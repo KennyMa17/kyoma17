@@ -1,2 +1,13 @@
 pandas
 numpy
+matplotlib
+mysql-connector-python==8.0.6
+cx_Oracle
+XlsxWriter
+Flask
+infoblox_netmri
+splunk-sdk
+panos-python
+pyrfc
+bs4
+requests
